@@ -1,0 +1,1 @@
+wget -q -O ActinometricData.csv "http://test.meteolab.ru:8080/api/solar/data/0ddd8e353faf1f61207f27dceb8f01084c39b22ead4b45e691a44691b6b2c942"
