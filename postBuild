@@ -1,1 +1,7 @@
+#!/bin/bash
+
+# Import the workspace into JupyterLab
+jupyter lab workspaces import binder/workspace.json
+
+# Download CSV file
 wget -q -O ActinometricData.csv "https://meteolab.ru/downloads/ActinometricData.csv"
