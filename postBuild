@@ -1,1 +1,1 @@
-wget -q -O 19680000611.pdf "http://ia600505.us.archive.org/7/items/nasa_techdoc_19680000611/19680000611.pdf"
+wget -q -O ActinometricData.csv "https://meteolab.ru/downloads/ActinometricData.csv"
