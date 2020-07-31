@@ -4,4 +4,4 @@
 jupyter lab workspaces import workspace.json
 
 # Download CSV file
-wget -q -O ActinometricData.csv "https://meteolab.ru/downloads/ActinometricData.csv"
+# wget -q -O ActinometricData.csv "https://meteolab.ru/downloads/ActinometricData.csv"
